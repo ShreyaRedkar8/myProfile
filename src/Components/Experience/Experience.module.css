@@ -1,0 +1,125 @@
+.experience{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.experience h1 span{
+    font-size: var(--section-heading-font-size);
+    /* color: #2857a4; */
+    display: inline-block;
+    padding-top: 10px;
+    margin-right: 0.5rem;
+}
+
+.timeline {
+    position: relative;
+    width: 75%;
+    /* border: 2px solid white; */
+
+}
+
+.timelineBox {
+    position: relative;
+    margin: 5px;
+    width: 40%;
+    left: 5%;
+    min-height: 150px;
+    /* border: 2px solid white; */
+    padding: 10px;
+}
+
+.companyLogo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.companyLogo img{
+    height: 80px;
+}
+
+.companyDetails{
+    justify-items: end;
+}
+
+.role{
+    font-size: 30px;
+    font-weight: bold;
+    color: #e07109;
+}
+
+.companyName{
+    font-size: 20px;
+    color: #690650e2;
+    font-weight: bold;
+}
+
+.tenure{
+    font-size: medium;
+    color: wheat;
+}
+
+.location{
+    font-size: x-small;
+    color: wheat;
+}
+
+.workExp{
+    font-size: large;
+    background: linear-gradient(264deg, #e07109 -5.09%, #690650e2 106.28%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bolder;
+}
+
+.timelineBox:nth-child(2n) {
+    left: 53%;
+}
+
+.timelineBox:nth-child(2n+1)::after{
+    content: '';
+    position: absolute;
+    top: 30%;
+    right: -8.7%;
+    border-radius: 50%;
+    width: 0.7rem;
+    height: 0.7rem;
+    background-color: red;
+    z-index: 1;
+}
+
+.timelineBox:nth-child(2n)::after{
+    content: '';
+    position: absolute;
+    top: 30%;
+    left: -8.9%;
+    border-radius: 50%;
+    width: 0.7rem;
+    height: 0.7rem;
+    background-color: red;
+    z-index: 1;
+}
+
+.timelineDivider {
+    position: absolute;
+    height: 85%;
+    width: 0;
+    border: 3px dashed #0096fa6b;
+    top: 5%;
+    left: 50%;
+}
+
+.aeroplaneIcon{
+    top: 20%;
+    position: sticky;
+    width: 20px;
+    transform: rotate(135deg);
+    z-index: 2;
+}
+
+.aeroplaneIcon img{
+    width: 50px;  
+}

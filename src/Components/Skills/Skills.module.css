@@ -1,0 +1,76 @@
+.skillsSet{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    margin: 20px;
+}
+
+.skillDisplay{
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.skills{
+    display: flex;
+    border: 2px solid white;
+    padding: 20px;
+    margin: 20px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.skills img{
+    margin-top: 10px;
+    width: 150px;
+}
+
+/* .skillDisplay{
+    width: 100rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.skillBox{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+    align-items: center;
+    justify-content: center;
+    /* border: 2px solid white; 
+}
+
+.skillBox>span{
+    font-size: 30px;
+    font-weight: bold;
+    color: #e07109;
+}
+
+.skillProgress{
+    width: 50rem;
+    height: 2rem;
+    background-color: lightgrey;
+    border-radius: 1rem;
+    margin-top: 30px;
+    justify-content: center;
+}
+
+.level{
+    display: flex;
+    width: 100%;
+    height: inherit;
+    border-radius: 0.8rem;
+    background: linear-gradient(264deg, #e07109 -5.09%, #690650e2 106.28%);
+    justify-content: center;
+}
+
+.skillName span{
+    margin-left: 20px;
+} */

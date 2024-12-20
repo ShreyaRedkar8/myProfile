@@ -1,0 +1,190 @@
+{
+    "name": "Shreya Redkar",
+    "contact":{
+        "number": "+971-544968608",
+        "email": "shreyaredkar8868@gmail.com",
+        "linkedIn": " www.linkedin.com/in/shreyaredkar"
+    },
+    "visaStatus": "UAE Visit Visa",
+    "proffesionalSummary": " Dynamic Full Stack Developer with 3+ years of expertise in creating scalable web applications and backend solutions. Proficient in Java, JavaScript, Vue.js, Quasar, and MySQL. Track record of boosting performance, reducing latency by  30%, and enhancing database efficiency by 20%. Developed a microservices architecture that improved scalability by 25%. Spearheaded projects including a booking platform reducing user time by 66% and an evaluation system  achieving 40% time savings. Certified in Java, Full Stack Web Development, and Power BI for AI Dashboards.",
+    "workExperience":[
+        {
+            "companyLogo": "https://cdn-icons-png.flaticon.com/128/4299/4299051.png",
+            "companyName" : "Logistics And Supply Chain Company",
+            "role": "Technical Consultant",
+            "tenure": "Oct 2023 - Oct 2024",
+            "location": "UAE",
+            "responsibilities": [
+                "Engineered30+RESTfulAPIsfor seamless integration of warehouse management and transportation systems, reducing response times by 25%",
+                "Advisedstakeholders on transitioning to a scalable microservices architecture, increasing modularity by 30%",
+                "BoostedMySQLqueryindexing,achieving a 35% reduction in inventory report retrieval time",
+                "Authoreddetailed user guides, reducing training costs by 15%"
+            ],
+            "technologies":[],
+            "projects":[]
+        },
+        {
+            "companyLogo": "images/freethink.jpg",
+            "companyName" : "Freethink Limited Liability Partnership",
+            "role": "Software Developer",
+            "tenure": " Jul 2022- Sep 2023",
+            "location": "India",
+            "responsibilities": [
+                "Constructedresponsive web applications using Vue.js and Quasar, enhancing system functionality and driving a 20% increase in user engagement",
+                "Developedandintegratedover 20RESTful APIs in Java, elevating application performance and reducing processing time by 30%",
+                "Facilitated the adoption of a microservices architecture, boosting system scalability by 25% and streamlining maintenance efforts by 30%",
+                "Refined MySQL databases for three applications, cutting query execution times by 30% and improving overall efficiency",
+                "Led the full software development lifecycle (SDLC), optimizing workflows and reducing bug resolution time by 25%",
+                "Revamped the E-Assembly website with new features, increasing user engagement by 40% and enhancing usability and satisfaction metrics",
+                "Directed the development of an online guest house booking platform, reducing average booking time from 15 minutes to 5 minutes",
+                "Created an online aptitude test platform for recruitment, slashing evaluation time by 40% and optimizing the hiring process"
+            ],
+            "technologies":[],
+            "projects":[]
+        },
+        {
+            "companyLogo": "images/gel.jpg",
+            "companyName" : "Goa Electronics Limited",
+            "role": "Trainee Software Engineer",
+            "tenure": "Apr 2021- Jul 2022",
+            "location": "India",
+            "responsibilities": [
+                "Built 10+ cross-browser web applications with a Java backend using Maven and a responsive front-end using HTML, CSS, and Bootstrap, improving user accessibility and compatibility",
+                "Minimized page load times by 15%, boosting performance and enhancing user experience on multiple platforms",
+                "Optimized 40+ complex SQL queries and stored procedures in PostgreSQL, increasing data retrieval speed by 20%for key applications",
+                "Played an integral role in developing and maintaining 3 high-impact government websites reaching over 5,000 users monthly and improving digital access for 100+ daily active users"
+            ],
+            "technologies":[],
+            "projects":[]
+        },
+        {
+            "companyLogo": "images/gel.jpg",
+            "companyName" : "Goa Electronics Limited",
+            "role": " Implementation Engineer– Business Analyst",
+            "tenure": "Oct 2020- Apr2021",
+            "location": "India",
+            "responsibilities": [
+                "Conducted system analysis, gathered business requirements, and documented functional specifications, reducing project scope changes by 25% and improving delivery time by 10%",
+                "Researched 100+ and applied for 5+tenders, submitting detailed proposals for new business opportunities",
+                "Furnished end-user training and technical support, reducing support tickets by 40% and improving user satisfaction by 30%"
+            ],
+            "technologies":[],
+            "projects":[]
+        }
+    ],
+    "education": [
+        {
+            "instituteLogo": "images/gec.jpg",
+            "instituteName" : "Goa College of Engineering",
+            "instituteLocation": "Farmagudi, Ponda-Goa, India",
+            "degree": "Bachelor's in Engineering– Information Technology",
+            "completedYear":"2020",
+            "instituteLink": "https://www.gec.ac.in"
+        },
+        {
+            "instituteLogo": "images/xaviers.png",
+            "instituteName" : "St. Xavier's Higher Secondary School",
+            "instituteLocation": "Mapusa-Goa, India",
+            "degree": "Higher Secondary School Certificate - Science",
+            "completedYear":"2016",
+            "instituteLink": "https://stxaviershssmapusa.com"
+        },
+        {
+            "instituteLogo": "images/dpv.png",
+            "instituteName" : "Dnyanprassarak Vidyalaya",
+            "instituteLocation": "Mapusa-Goa, India",
+            "degree": "Secondary School Certificate",
+            "completedYear":"2014",
+            "instituteLink": "https://www.dnyanprassarakvidyalaya.com"
+        }
+    ],
+    "certifications": [
+        "Java",
+        "Full Stack Web Development",
+        "AI dashboards using Microsoft Power BI",
+        "Back End with Node.js",
+        "React.js"
+    ],
+    "skills":[
+        {
+            "name": "Java",
+            "icon": "https://cdn-icons-png.flaticon.com/128/5968/5968282.png"
+        },
+        {
+            "name": "JavaScript",
+            "icon": "https://cdn-icons-png.flaticon.com/128/1199/1199124.png"
+        },
+        {
+            "name": "React.js",
+            "icon": "https://cdn.worldvectorlogo.com/logos/react-2.svg"
+        },
+        {
+            "name": "Node.Js",
+            "icon": "https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"
+        },
+        {
+            "name": "Vue.js",
+            "icon": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png"
+        },
+        {
+            "name": "Express.js",
+            "icon": "https://img.icons8.com/?size=48&id=PZQVBAxaueDJ&format=png"
+        },
+        {
+            "name": "Quasar",
+            "icon": "https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg"
+        },
+        {
+            "name": "HTML",
+            "icon": "https://cdn-icons-png.flaticon.com/128/1051/1051277.png"
+        },
+        {
+            "name": "CSS",
+            "icon": "https://cdn.worldvectorlogo.com/logos/css-3.svg"
+        },
+        {
+            "name": "Bootstrap",
+            "icon": "https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"
+        },
+        {
+            "name": "PostgreSQL",
+            "icon": "https://cdn.worldvectorlogo.com/logos/postgresql.svg"
+        },
+        {
+            "name": "MySQL",
+            "icon": "https://cdn-icons-png.flaticon.com/128/5968/5968313.png"
+        },
+        {
+            "name": "MongoDB",
+            "icon": "https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"
+        },
+        {
+            "name": "Eclipse IDE",
+            "icon": "https://cdn.worldvectorlogo.com/logos/eclipse-11.svg"
+        },
+        {
+            "name": "IntelliJ IDEA",
+            "icon": "https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"
+        },
+        {
+            "name": "Microsoft Visual Studio",
+            "icon": "https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"
+        },
+        {
+            "name": "WordPress",
+            "icon": "https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg"
+        },
+        {
+            "name": "GitHub",
+            "icon": "https://cdn-icons-png.flaticon.com/128/2111/2111432.png"
+        },
+        {
+            "name": "GitLab",
+            "icon": "https://cdn-icons-png.flaticon.com/128/5968/5968853.png"
+        },
+        {
+            "name": "JIRA",
+            "icon": "https://cdn-icons-png.flaticon.com/128/5968/5968875.png"
+        }
+        ]
+}

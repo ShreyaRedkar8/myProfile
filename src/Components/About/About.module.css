@@ -1,0 +1,13 @@
+.about{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.about p{
+    padding: 0px 300px;
+    justify-content: center;
+    align-items: center;
+}

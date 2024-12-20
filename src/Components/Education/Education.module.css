@@ -1,0 +1,53 @@
+.educationModule{
+        display: flex;
+        align-items: center;
+        margin-top: 50px;
+        justify-content: center;
+        flex-direction: column;
+}
+
+.educationBoxes{
+    position: relative;
+    width: 40%;
+    /* border: 2px solid white; */
+}
+
+.educationBox{
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid white; */
+    margin-bottom: 50px;
+}
+
+.instituteLogo img{
+    width: 100px;
+}
+
+.instututeInfo{
+    justify-content: start;
+    height: 100px;
+    /* border: 2px solid white; */
+    width: 80%;  
+}
+
+.instituteName{
+    font-size: 30px;
+    color: #690650e2;
+    font-weight: bold;
+}
+
+.degree{
+    font-size: 20px;
+    font-weight: bold;
+    color: #e07109;
+}
+
+.instituteLocation{
+    font-size: medium;
+    color: wheat;
+}
+
+.completedYear{
+    font-size: x-small;
+    color: wheat;
+}
